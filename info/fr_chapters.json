@@ -1,0 +1,458 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "L\u0027ouverture"
+    },
+    {
+        "id":  2,
+        "name":  "La vache"
+    },
+    {
+        "id":  3,
+        "name":  "La famille de \u0027imran"
+    },
+    {
+        "id":  4,
+        "name":  "Les femmes"
+    },
+    {
+        "id":  5,
+        "name":  "La table servie"
+    },
+    {
+        "id":  6,
+        "name":  "Les bestiaux"
+    },
+    {
+        "id":  7,
+        "name":  "Al-A\u0027raf"
+    },
+    {
+        "id":  8,
+        "name":  "Le butin"
+    },
+    {
+        "id":  9,
+        "name":  "Le repentir"
+    },
+    {
+        "id":  10,
+        "name":  "Jonas"
+    },
+    {
+        "id":  11,
+        "name":  "Houd"
+    },
+    {
+        "id":  12,
+        "name":  "Joseph"
+    },
+    {
+        "id":  13,
+        "name":  "Le tonnerre"
+    },
+    {
+        "id":  14,
+        "name":  "Abraham"
+    },
+    {
+        "id":  15,
+        "name":  "Al-Hijr"
+    },
+    {
+        "id":  16,
+        "name":  "Les abeilles"
+    },
+    {
+        "id":  17,
+        "name":  "Le voyage nocturne"
+    },
+    {
+        "id":  18,
+        "name":  "La caverne"
+    },
+    {
+        "id":  19,
+        "name":  "Marie"
+    },
+    {
+        "id":  20,
+        "name":  "Ta-Ha"
+    },
+    {
+        "id":  21,
+        "name":  "Les prophètes"
+    },
+    {
+        "id":  22,
+        "name":  "Le pèlerinage"
+    },
+    {
+        "id":  23,
+        "name":  "Les croyants"
+    },
+    {
+        "id":  24,
+        "name":  "La lumière"
+    },
+    {
+        "id":  25,
+        "name":  "Le discernement"
+    },
+    {
+        "id":  26,
+        "name":  "Les poètes"
+    },
+    {
+        "id":  27,
+        "name":  "Les fourmis"
+    },
+    {
+        "id":  28,
+        "name":  "Le récit"
+    },
+    {
+        "id":  29,
+        "name":  "L\u0027araignée"
+    },
+    {
+        "id":  30,
+        "name":  "Les romains"
+    },
+    {
+        "id":  31,
+        "name":  "Louqman"
+    },
+    {
+        "id":  32,
+        "name":  "La prosternation"
+    },
+    {
+        "id":  33,
+        "name":  "Les coalisés"
+    },
+    {
+        "id":  34,
+        "name":  "Saba\u0027"
+    },
+    {
+        "id":  35,
+        "name":  "Le Créateur"
+    },
+    {
+        "id":  36,
+        "name":  "Ya-Sin"
+    },
+    {
+        "id":  37,
+        "name":  "Les rangés"
+    },
+    {
+        "id":  38,
+        "name":  "Sad"
+    },
+    {
+        "id":  39,
+        "name":  "Les groupes"
+    },
+    {
+        "id":  40,
+        "name":  "Le Pardonneur"
+    },
+    {
+        "id":  41,
+        "name":  "Les versets explicites"
+    },
+    {
+        "id":  42,
+        "name":  "La concertation"
+    },
+    {
+        "id":  43,
+        "name":  "L\u0027ornement"
+    },
+    {
+        "id":  44,
+        "name":  "La fumée"
+    },
+    {
+        "id":  45,
+        "name":  "L\u0027agenouillée"
+    },
+    {
+        "id":  46,
+        "name":  "Al-Ahqaf"
+    },
+    {
+        "id":  47,
+        "name":  "Mouhammad"
+    },
+    {
+        "id":  48,
+        "name":  "La victoire éclatante"
+    },
+    {
+        "id":  49,
+        "name":  "Les appartements"
+    },
+    {
+        "id":  50,
+        "name":  "Qaf"
+    },
+    {
+        "id":  51,
+        "name":  "Qui éparpillent"
+    },
+    {
+        "id":  52,
+        "name":  "Le mont At-Tour"
+    },
+    {
+        "id":  53,
+        "name":  "L\u0027étoile"
+    },
+    {
+        "id":  54,
+        "name":  "La lune"
+    },
+    {
+        "id":  55,
+        "name":  "Le Tout Miséricordieux"
+    },
+    {
+        "id":  56,
+        "name":  "L\u0027inévitable"
+    },
+    {
+        "id":  57,
+        "name":  "Le fer"
+    },
+    {
+        "id":  58,
+        "name":  "La discussion"
+    },
+    {
+        "id":  59,
+        "name":  "L\u0027exode"
+    },
+    {
+        "id":  60,
+        "name":  "L\u0027éprouvée"
+    },
+    {
+        "id":  61,
+        "name":  "Le rang"
+    },
+    {
+        "id":  62,
+        "name":  "Le vendredi"
+    },
+    {
+        "id":  63,
+        "name":  "Les hypocrites"
+    },
+    {
+        "id":  64,
+        "name":  "La grande perte"
+    },
+    {
+        "id":  65,
+        "name":  "Le divorce"
+    },
+    {
+        "id":  66,
+        "name":  "L\u0027interdiction"
+    },
+    {
+        "id":  67,
+        "name":  "La royauté"
+    },
+    {
+        "id":  68,
+        "name":  "La plume"
+    },
+    {
+        "id":  69,
+        "name":  "L\u0027inéluctable"
+    },
+    {
+        "id":  70,
+        "name":  "Les voies d\u0027ascension"
+    },
+    {
+        "id":  71,
+        "name":  "Noé"
+    },
+    {
+        "id":  72,
+        "name":  "Les djinns"
+    },
+    {
+        "id":  73,
+        "name":  "L\u0027enveloppé"
+    },
+    {
+        "id":  74,
+        "name":  "Celui qui se couvre"
+    },
+    {
+        "id":  75,
+        "name":  "La résurrection"
+    },
+    {
+        "id":  76,
+        "name":  "L\u0027homme"
+    },
+    {
+        "id":  77,
+        "name":  "Les envoyés"
+    },
+    {
+        "id":  78,
+        "name":  "La nouvelle"
+    },
+    {
+        "id":  79,
+        "name":  "Ceux qui arrachent"
+    },
+    {
+        "id":  80,
+        "name":  "Il s\u0027est renfrogné"
+    },
+    {
+        "id":  81,
+        "name":  "L\u0027obscurcissement"
+    },
+    {
+        "id":  82,
+        "name":  "La rupture"
+    },
+    {
+        "id":  83,
+        "name":  "Les fraudeurs"
+    },
+    {
+        "id":  84,
+        "name":  "La déchirure"
+    },
+    {
+        "id":  85,
+        "name":  "Les constellations"
+    },
+    {
+        "id":  86,
+        "name":  "L\u0027astre nocturne"
+    },
+    {
+        "id":  87,
+        "name":  "Le Très-Haut"
+    },
+    {
+        "id":  88,
+        "name":  "L\u0027enveloppante"
+    },
+    {
+        "id":  89,
+        "name":  "L\u0027aube"
+    },
+    {
+        "id":  90,
+        "name":  "La cité"
+    },
+    {
+        "id":  91,
+        "name":  "Le soleil"
+    },
+    {
+        "id":  92,
+        "name":  "La nuit"
+    },
+    {
+        "id":  93,
+        "name":  "Le jour montant"
+    },
+    {
+        "id":  94,
+        "name":  "L\u0027ouverture"
+    },
+    {
+        "id":  95,
+        "name":  "Les figues"
+    },
+    {
+        "id":  96,
+        "name":  "L\u0027adhérence"
+    },
+    {
+        "id":  97,
+        "name":  "La destinée"
+    },
+    {
+        "id":  98,
+        "name":  "La preuve"
+    },
+    {
+        "id":  99,
+        "name":  "Le séisme"
+    },
+    {
+        "id":  100,
+        "name":  "Les coursiers"
+    },
+    {
+        "id":  101,
+        "name":  "Le fracas"
+    },
+    {
+        "id":  102,
+        "name":  "La course aux richesses"
+    },
+    {
+        "id":  103,
+        "name":  "Le temps"
+    },
+    {
+        "id":  104,
+        "name":  "Les calomniateurs"
+    },
+    {
+        "id":  105,
+        "name":  "L\u0027éléphant"
+    },
+    {
+        "id":  106,
+        "name":  "Les Quraysh"
+    },
+    {
+        "id":  107,
+        "name":  "L\u0027entraide"
+    },
+    {
+        "id":  108,
+        "name":  "L\u0027abondance"
+    },
+    {
+        "id":  109,
+        "name":  "Les mécréants"
+    },
+    {
+        "id":  110,
+        "name":  "Le secours"
+    },
+    {
+        "id":  111,
+        "name":  "Les fibres"
+    },
+    {
+        "id":  112,
+        "name":  "La sincérité"
+    },
+    {
+        "id":  113,
+        "name":  "L\u0027aube naissante"
+    },
+    {
+        "id":  114,
+        "name":  "Les humains"
+    }
+]

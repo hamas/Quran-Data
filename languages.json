@@ -1,37 +1,42 @@
 [
     {
-        "direction":  "ltr",
-        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/en_sahih.json",
-        "name":  "English",
         "id":  "en_sahih",
-        "translator":  "Sahih International"
+        "name":  "English",
+        "direction":  "ltr",
+        "chapters_url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/info/en_chapters.json",
+        "translator":  "Sahih International",
+        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/en_sahih.json"
     },
     {
-        "direction":  "rtl",
-        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/ur_jalandhry.json",
-        "name":  "Urdu",
         "id":  "ur_jalandhry",
-        "translator":  "Jalandhry"
+        "name":  "Urdu",
+        "direction":  "rtl",
+        "chapters_url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/info/ur_chapters.json",
+        "translator":  "Jalandhry",
+        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/ur_jalandhry.json"
     },
     {
-        "direction":  "ltr",
-        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/fr_hamidullah.json",
-        "name":  "French",
         "id":  "fr_hamidullah",
-        "translator":  "Hamidullah"
+        "name":  "French",
+        "direction":  "ltr",
+        "chapters_url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/info/fr_chapters.json",
+        "translator":  "Hamidullah",
+        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/fr_hamidullah.json"
     },
     {
-        "direction":  "ltr",
-        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/id_indonesian.json",
-        "name":  "Indonesian",
         "id":  "id_indonesian",
-        "translator":  "Ministry of Religion"
+        "name":  "Indonesian",
+        "direction":  "ltr",
+        "chapters_url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/info/id_chapters.json",
+        "translator":  "Ministry of Religion",
+        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/id_indonesian.json"
     },
     {
-        "direction":  "ltr",
-        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/ru_kuliev.json",
-        "name":  "Russian",
         "id":  "ru_kuliev",
-        "translator":  "Kuliev"
+        "name":  "Russian",
+        "direction":  "ltr",
+        "chapters_url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/info/ru_chapters.json",
+        "translator":  "Kuliev",
+        "url":  "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/ru_kuliev.json"
     }
 ]

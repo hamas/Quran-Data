@@ -1,0 +1,458 @@
+﻿[
+    {
+        "id":  1,
+        "name":  "Pembukaan"
+    },
+    {
+        "id":  2,
+        "name":  "Sapi Betina"
+    },
+    {
+        "id":  3,
+        "name":  "Keluarga Imran"
+    },
+    {
+        "id":  4,
+        "name":  "Wanita"
+    },
+    {
+        "id":  5,
+        "name":  "Jamuan (Hidangan Makanan)"
+    },
+    {
+        "id":  6,
+        "name":  "Binatang Ternak"
+    },
+    {
+        "id":  7,
+        "name":  "Tempat-tempat Tinggi"
+    },
+    {
+        "id":  8,
+        "name":  "Rampasan Perang"
+    },
+    {
+        "id":  9,
+        "name":  "Pengampunan"
+    },
+    {
+        "id":  10,
+        "name":  "Yunus"
+    },
+    {
+        "id":  11,
+        "name":  "Hud"
+    },
+    {
+        "id":  12,
+        "name":  "Yusuf"
+    },
+    {
+        "id":  13,
+        "name":  "Guruh (Petir)"
+    },
+    {
+        "id":  14,
+        "name":  "Ibrahim"
+    },
+    {
+        "id":  15,
+        "name":  "Bukit"
+    },
+    {
+        "id":  16,
+        "name":  "Lebah Madu"
+    },
+    {
+        "id":  17,
+        "name":  "Perjalanan Malam"
+    },
+    {
+        "id":  18,
+        "name":  "Para Penghuni Gua"
+    },
+    {
+        "id":  19,
+        "name":  "Maryam"
+    },
+    {
+        "id":  20,
+        "name":  "Tha-Ha"
+    },
+    {
+        "id":  21,
+        "name":  "Para Nabi"
+    },
+    {
+        "id":  22,
+        "name":  "Haji"
+    },
+    {
+        "id":  23,
+        "name":  "Orang-orang Mukmin"
+    },
+    {
+        "id":  24,
+        "name":  "Cahaya"
+    },
+    {
+        "id":  25,
+        "name":  "Pembeda"
+    },
+    {
+        "id":  26,
+        "name":  "Penyair"
+    },
+    {
+        "id":  27,
+        "name":  "Semut"
+    },
+    {
+        "id":  28,
+        "name":  "Kisah-kisah"
+    },
+    {
+        "id":  29,
+        "name":  "Laba-laba"
+    },
+    {
+        "id":  30,
+        "name":  "Bangsa Romawi"
+    },
+    {
+        "id":  31,
+        "name":  "Luqman"
+    },
+    {
+        "id":  32,
+        "name":  "Sujud"
+    },
+    {
+        "id":  33,
+        "name":  "Golongan yang Bersekutu"
+    },
+    {
+        "id":  34,
+        "name":  "Saba\\\u0027"
+    },
+    {
+        "id":  35,
+        "name":  "Pencipta"
+    },
+    {
+        "id":  36,
+        "name":  "Yas Sin"
+    },
+    {
+        "id":  37,
+        "name":  "Barisan-barisan"
+    },
+    {
+        "id":  38,
+        "name":  "Shad"
+    },
+    {
+        "id":  39,
+        "name":  "Para Rombongan"
+    },
+    {
+        "id":  40,
+        "name":  "Sang Maha Pengampun"
+    },
+    {
+        "id":  41,
+        "name":  "Yang Dijelaskan"
+    },
+    {
+        "id":  42,
+        "name":  "Musyawarah"
+    },
+    {
+        "id":  43,
+        "name":  "Perhiasan"
+    },
+    {
+        "id":  44,
+        "name":  "Kabut"
+    },
+    {
+        "id":  45,
+        "name":  "Yang Bertekuk Lutut"
+    },
+    {
+        "id":  46,
+        "name":  "Bukit-bukir Pasir"
+    },
+    {
+        "id":  47,
+        "name":  "Muhammad"
+    },
+    {
+        "id":  48,
+        "name":  "Kemenangan"
+    },
+    {
+        "id":  49,
+        "name":  "Kamar-kamar"
+    },
+    {
+        "id":  50,
+        "name":  "Qaf"
+    },
+    {
+        "id":  51,
+        "name":  "Angin yang Menerbangkan"
+    },
+    {
+        "id":  52,
+        "name":  "Bukit"
+    },
+    {
+        "id":  53,
+        "name":  "Bintang"
+    },
+    {
+        "id":  54,
+        "name":  "Bulan"
+    },
+    {
+        "id":  55,
+        "name":  "Yang Maha Pemurah"
+    },
+    {
+        "id":  56,
+        "name":  "Hari Kiamat"
+    },
+    {
+        "id":  57,
+        "name":  "Besi"
+    },
+    {
+        "id":  58,
+        "name":  "Wanita yang Menggugat"
+    },
+    {
+        "id":  59,
+        "name":  "Pengusiran"
+    },
+    {
+        "id":  60,
+        "name":  "Wanita yang Diuji"
+    },
+    {
+        "id":  61,
+        "name":  "Barisan"
+    },
+    {
+        "id":  62,
+        "name":  "Hari Jum\\\u0027at"
+    },
+    {
+        "id":  63,
+        "name":  "Kaum Munafik"
+    },
+    {
+        "id":  64,
+        "name":  "Hari Dinampakkan Kesalahan"
+    },
+    {
+        "id":  65,
+        "name":  "Perceraian"
+    },
+    {
+        "id":  66,
+        "name":  "Mengharamkan"
+    },
+    {
+        "id":  67,
+        "name":  "Kerajaan"
+    },
+    {
+        "id":  68,
+        "name":  "Pena"
+    },
+    {
+        "id":  69,
+        "name":  "Kenyataan (Hari Kiamat)"
+    },
+    {
+        "id":  70,
+        "name":  "Tempat yang Naik"
+    },
+    {
+        "id":  71,
+        "name":  "Nuh"
+    },
+    {
+        "id":  72,
+        "name":  "Jin"
+    },
+    {
+        "id":  73,
+        "name":  "Orang yang Berselimut"
+    },
+    {
+        "id":  74,
+        "name":  "Orang yang Berkemul"
+    },
+    {
+        "id":  75,
+        "name":  "Hari Berbangkit"
+    },
+    {
+        "id":  76,
+        "name":  "Manusia"
+    },
+    {
+        "id":  77,
+        "name":  "Malaikat-malaikan yang Diutus"
+    },
+    {
+        "id":  78,
+        "name":  "Berita Besar"
+    },
+    {
+        "id":  79,
+        "name":  "Malaikat yang Mencabut"
+    },
+    {
+        "id":  80,
+        "name":  "Ia Bermuka Masam"
+    },
+    {
+        "id":  81,
+        "name":  "Menggulung"
+    },
+    {
+        "id":  82,
+        "name":  "Terbelah"
+    },
+    {
+        "id":  83,
+        "name":  "Orang-orang Curang"
+    },
+    {
+        "id":  84,
+        "name":  "Terbelah"
+    },
+    {
+        "id":  85,
+        "name":  "Gugusan Bintang"
+    },
+    {
+        "id":  86,
+        "name":  "Yang Datang di Malam Hari"
+    },
+    {
+        "id":  87,
+        "name":  "Yang Paling Tinggi"
+    },
+    {
+        "id":  88,
+        "name":  "Hari Pembalasan"
+    },
+    {
+        "id":  89,
+        "name":  "Fajar"
+    },
+    {
+        "id":  90,
+        "name":  "Negeri"
+    },
+    {
+        "id":  91,
+        "name":  "Matahari"
+    },
+    {
+        "id":  92,
+        "name":  "Malam"
+    },
+    {
+        "id":  93,
+        "name":  "Waktu Dhuha"
+    },
+    {
+        "id":  94,
+        "name":  "Melapangkan"
+    },
+    {
+        "id":  95,
+        "name":  "Buah Tin"
+    },
+    {
+        "id":  96,
+        "name":  "Segumpal Darah"
+    },
+    {
+        "id":  97,
+        "name":  "Kemuliaan"
+    },
+    {
+        "id":  98,
+        "name":  "Pembuktian"
+    },
+    {
+        "id":  99,
+        "name":  "Kegoncangan"
+    },
+    {
+        "id":  100,
+        "name":  "Berlari Kencang"
+    },
+    {
+        "id":  101,
+        "name":  "Hari Kiamat"
+    },
+    {
+        "id":  102,
+        "name":  "Bermegah-megahan"
+    },
+    {
+        "id":  103,
+        "name":  "Waktu Sore"
+    },
+    {
+        "id":  104,
+        "name":  "Pengumpat"
+    },
+    {
+        "id":  105,
+        "name":  "Gajah"
+    },
+    {
+        "id":  106,
+        "name":  "Suku Quraisy"
+    },
+    {
+        "id":  107,
+        "name":  "Barang yang Berguna"
+    },
+    {
+        "id":  108,
+        "name":  "Nikmat Berlimpah"
+    },
+    {
+        "id":  109,
+        "name":  "Orang-orang Kafir"
+    },
+    {
+        "id":  110,
+        "name":  "Pertolongan"
+    },
+    {
+        "id":  111,
+        "name":  "Gejolak Api (Sabut)"
+    },
+    {
+        "id":  112,
+        "name":  "Ikhlash"
+    },
+    {
+        "id":  113,
+        "name":  "Waktu Shubuh"
+    },
+    {
+        "id":  114,
+        "name":  "Umat Manusia"
+    }
+]
