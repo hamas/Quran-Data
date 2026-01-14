@@ -1,0 +1,16 @@
+[
+  {
+    "id": "en_sahih",
+    "name": "English",
+    "translator": "Sahih International",
+    "direction": "ltr",
+    "url": "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/en_sahih.json"
+  },
+  {
+    "id": "ur_jalandhry",
+    "name": "Urdu",
+    "translator": "Jalandhry",
+    "direction": "rtl",
+    "url": "https://raw.githubusercontent.com/hamas/Quran-Data/main/translations/ur_jalandhry.json"
+  }
+]
